@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stringsArraysObjects
+- 👋 Hi, I’m Mason
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning legacy languages such as COBOL.
+- 💞️ I’m looking to collaborate on projects that enhance my talents and better civilization.
 - 📫 DM me on <a href="https://twitter.com/yes_my_lege">X</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make homemade gourmet chocolate frosting spread for the bananas that I eat every day.
