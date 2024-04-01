@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mason
-- 👀 I’m interested in Java, JS, HTML, CSS, Next.js, React, Typescript, Python, Postgres. MongoDB.
+- 👀 I’m interested in Java, JS, React, SQL, Supabase, and Postgres. 
 - 🌱 I’m currently learning legacy languages such as COBOL.
 - 💞️ I’m looking to collaborate on projects that enhance my talents and better civilization.
 - 📫 DM me on <a href="https://twitter.com/yes_my_lege">X</a>
