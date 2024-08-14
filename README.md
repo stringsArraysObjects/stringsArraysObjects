@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, JS, React, SQL, Supabase, and Postgres. 
 - 🌱 I’m currently learning legacy languages such as COBOL.
 - 💞️ I’m looking to collaborate on projects that enhance my talents and better civilization.
-- 📫 DM me on <a href="https://twitter.com/yes_my_lege">X</a>
+- 📫 DM me on <a href="https://x.com/yes_myliege">X</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make homemade gourmet chocolate frosting spread for the bananas that I eat every day.
 
