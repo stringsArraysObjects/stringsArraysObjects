@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that enhance my talents and better civilization.
 - 📫 DM me on <a href="https://x.com/yes_myliege">X</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I make homemade gourmet chocolate frosting spread for the bananas that I eat every day.
+- ⚡ Fun fact: chickens are dinosaurs.
 
 <!---
 stringsArraysObjects/stringsArraysObjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
