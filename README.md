@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning legacy languages such as COBOL.
 - 💞️ Traveling the lands between.
 - 📫 DM me on <a href="https://x.com/yes_myliege">X</a>
-- 😄 Pronouns: don't care. 
+- 😄 Pronouns: he/him. 
 - ⚡ Fun fact: chickens are dinosaurs.
 
 <!---
